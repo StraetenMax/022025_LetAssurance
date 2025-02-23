@@ -1,0 +1,199 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Lettre Ecosup Assurance - Entreprise Janvier 2025</mj-title>
+    <mj-raw>
+      <meta name="color-scheme" content="light"/>
+      <meta name="supported-color-schemes" content="light"/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif"/>
+      <mj-class name="T+2" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="900" line-height="18px"></mj-class>
+      <mj-class name="T+1" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-weight="700" line-height="24px"></mj-class>
+      <mj-class name="T+0" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="20px"></mj-class>
+      <mj-class name="cA+2" color="#944694"></mj-class>
+      <mj-class name="cA+1" color="#684092"></mj-class>
+      <mj-class name="cT-0" color="#45546e"></mj-class>
+      <mj-class name="bgcG" background-color="#eff1f5"></mj-class>
+    </mj-attributes>
+    <mj-breakpoint width="480px"/>
+    <mj-style>
+      @media only screen and (max-width:480px) { 
+          .mobile-hide { 
+              display: none !important; 
+          }
+          .mobile-show { 
+              display: block !important;
+              width: 100% !important;
+              height: auto !important;
+              visibility: visible !important;
+          }
+      }
+      .mobile-show {
+          display: none;
+      }
+      
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E7ECf2">
+    <mj-section background-color="#c0c9d8" padding="10px 10px">
+      <mj-group width="450px">
+        <mj-column width="20%" vertical-align="middle">
+          <mj-image padding="0" border="0" width="50px" align="center" src="https://i.ibb.co/1TX5zLW/lg-ESA112024.png" alt="logo ESA (École Supérieure d'Assurances)"/>
+        </mj-column>
+        <mj-column width="20%" vertical-align="middle">
+          <mj-image padding="0" border="0" width="120px" align="center" src="https://i.ibb.co/HGs67PM/lg-AGEA112024.png" alt="logo AGEA (Agent Général d'Assurance)"/>
+        </mj-column>
+        <mj-column width="20%" vertical-align="middle">
+          <mj-image padding="0" border="0" width="100px" align="center" src="https://i.ibb.co/9WmCPHs/lg-Grafton112024.png" alt="logo Graphton recrutement"/>
+        </mj-column>
+        <mj-column width="20%" vertical-align="middle">
+          <mj-image padding="0" border="0" width="50px" align="center" src="https://i.ibb.co/MhjdcT8/Logo-BNIculturebusiness.png" alt="logo BNI culture business"/>
+        </mj-column>
+        <mj-column width="20%" vertical-align="middle">
+          <mj-image padding="0" border="0" width="70px" align="center" src="https://i.ibb.co/FgxXSyj/Logo-Atlasjpo12142024.png" alt="logo OPCO ATLAS"/>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#eff1f5" padding-top="20px" padding-bottom="5px" padding-left="0px" padding-right="0px">
+      <mj-group width="95%"> 
+        <mj-column width="50%" padding="10px">
+          <mj-image align="left" padding="0" border="none" width="256px" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb2771d0c8d6691c4e4e7c.png" alt="Logo Ecosup Assurance"/>
+        </mj-column>
+        <mj-column width="50%" padding="10px">
+          <mj-image align="right" padding="0" border="none" width="150px" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb277b6d8c909673de86c1.png" alt="Logo de la Newsletter"/> 
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#eff1f5" padding="0">
+      <mj-column width="95%">
+        <mj-social align="right" padding-top="0" padding-bottom="0" padding-left="10px" padding-right="10px" icon-size="25px" mode="horizontal">
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d604fd0d41f3120a8cdf5.png" href="https://www.facebook.com/EcosupAssurance/" alt="icon Facebook"></mj-social-element>
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d605a373b24d832a3970d.png" href="https://www.instagram.com/ecosup.campus/" alt="icon Instagram"></mj-social-element>
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d6047d0d41f3120a8cdec.png" href="https://linkedin.com/company/ecosup-campus" alt="icon Linkedin">    </mj-social-element>
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d60657236a3846ef846ba.png" href="https://www.youtube.com/@EcoSupAssurance" alt="icon Youtube">    </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#eff1f5" padding="0">
+      <mj-column width="95%">
+        <mj-text padding="5px 10px" align="left" font-size="16px" font-weight="300" color="#2D3748"><span style="font-weight:700;text-transform:uppercase">News Ecosup Assurance</span>&nbsp;&nbsp;|&nbsp;&nbsp;Janvier 2025</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding-top="20px" padding-bottom="10px">
+      <mj-column>
+        <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase" letter-spacing="1px">À vos Agendas</mj-text>
+        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Salon, Job Dating et Journées Portes Ouvertes</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding-top="0" padding-left="23px" padding-right="23px">
+      <mj-group width="50%">
+        <mj-column width="50%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="480px" src="https://i.ibb.co/r2FnHCk1/jpo29032025.jpg" alt="Affiche de la journée portes ouvertes du samedi 29 mars 2025 de 9h30 à 13h"/>
+        </mj-column>
+        <mj-column width="50%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="480px" src="https://i.ibb.co/cch56V80/job-Dating17042025.jpgg" alt="Présentation du job dating qui aura lieu le jeudi 17 avril 2025 de 14h à 17h30"/>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column width="50%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="480px" src="https://i.ibb.co/6ckPBZhK/jpo26042025.jpg" alt="Affiche de la journée portes ouvertes du samedi 26 avril 2025 de 9h30 à 13h"/>
+        </mj-column>
+        <mj-column width="50%" padding="2px">
+          <mj-image padding="0" border="none" fluid-on-mobile="true" width="480px" src="https://i.ibb.co/WvNcg94G/affiche-Jpo24052025.jpg" alt="Affiche de la journée portes ouvertes du samedi 24 mai 2025 de 9h30 à 17h"/>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#586c8d" padding-left="23px" padding-right="23px" padding-bottom="10px">
+      <mj-column width="100%">
+        <mj-text padding="0px 2px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#EDF2F7">Entreprises accueillant nos étudiants en apprentissage</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#586c8d" padding="0px 23px">
+      <mj-group width="50%">
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/HfG6H83b/LogoAxa.jpg" alt="logo AXA assurance"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/ycTrKBhf/LogoSMA.jpg" alt="logo SMA btp"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/Z1bGydsp/LogoDLM.jpg" alt="logo DLM location"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/7NjjDVw2/Logo-Concilian.jpg" alt="logo Concilian"/>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/WWSmKvXZ/Logo-Messange-1.jpg" alt="logo Mésange Prévoyance"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/BKQL2JSn/Logo-Henner.jpg" alt="logo groupe Henner"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/67qk3wMt/Logo-Allianz.jpg" alt="logo Allianz assurance"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/S4G3mtg9/Logo-Credit-Agricole.jpg" alt="logo Crédit Agricole"/>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/wFkbN3qf/Logo-Swiss.jpg" alt="logo couleur Swiss Life"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/gbt1vJpF/Logo-Humanis-1.jpg" alt="logo couleur Humanis Malakoff"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/BVR6w4C4/Logo-Sofinco-1.jpg" alt="logo couleur Sofinco"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/012S4CR/Logo-Deledalle.jpg" alt="logo couleur Deledalle courtier d'assurances"/>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/LDmH5byb/Logo2-M-1.jpg" alt="logo 2M votre courtier assurancess"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/WNv8BHGg/logoMMA.jpg" alt="logo MMA assurance"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/F4rDBWgZ/Logo-Diot-1.jpg" alt="logo Diot groupe Diot Siaci"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/F4PPfbMS/Logo-Caisse-Epargne-1.png" alt="logo Caisse d'Épargne"/>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image align="left" padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/rKV2QH1n/Logo-Vespieren.jpg" alt="logo des Assurances Vespieren"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px"></mj-column>
+      </mj-group>
+      <mj-group width="50%"></mj-group>
+    </mj-section>
+    <mj-section background-color="#586c8d" padding="20px 32px">
+      <mj-column width="320px">
+        <mj-image width="140px" padding="0" border="none" align="center" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" alt="Logo Ecosup Campus"/>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="https://www.google.com/maps/@50.72132372645463,3.1568485683426477?ll=50.72132372645463,3.1568485683426477&amp;z=12&amp;q=Ecosup+Campus">17 Place Charles et Albert Roussel</a></mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc" text-transform="uppercase">59200 Tourcoing</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="700" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="tel:0320700606">Tél 03.20.70.06.06</a>               </mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+        <mj-text padding="0 0 25px 0" align="center" font-size="12px" font-weight="700" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="https://ecosup-campus.com">www.ecosup-campus.fr</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="320px">
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#0a0c10">Si vous n'arrivez pas à lire cet email, cliquez <a style="color:#BA4995;font-size:12px;font-weight:700" href="{{ mirror}}">ici</a>           </mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#0a0c10">Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#0a0c10;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#0a0c10">Pour vous désinscrire, cliquez <a style="color:#BA4995;font-size:12px;font-weight:700;" href="{{ unsubscribe }}">ici</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

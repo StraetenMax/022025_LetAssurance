@@ -1,58 +1,74 @@
 {
   "logosList1": [
         {
-            "image": "https://i.ibb.co/QFWSt0w/logo-Supveto01.jpg",
-            "alt": "logo Hôpital vétérinaire des Laurentides"
+            'image': 'https://i.ibb.co/HfG6H83b/LogoAxa.jpg',
+            'alt' : 'logo AXA assurance' 
         },
         {
-            "image": "https://i.ibb.co/bgqVSsD/logo-Supveto02.jpg",
-            "alt": "logo Lux-Vet clinique vétérinaire"
+            'image':'https://i.ibb.co/ycTrKBhf/LogoSMA.jpg',
+            'alt':'logo SMA btp'
         },
         {
-            "image": "https://i.ibb.co/NLgM4B7/logo-Supveto04.jpg",
-            "alt": "logo du centre hôpitalier Vétérinaire Pommery"
+            'image':'https://i.ibb.co/Z1bGydsp/LogoDLM.jpg',
+            'alt':'logo DLM location'
+        },
+        {
+            'image':'https://i.ibb.co/7NjjDVw2/Logo-Concilian.jpg',
+            'alt':'logo Concilian'
         }
     ],
     "logosList2": [        
-        {
-            "image": "https://i.ibb.co/PwXYWZC/logo-Supveto05.jpg",
-            "alt": "logo de la Clinique vétérinaire de Linselles"
+         { 
+            'image':'https://i.ibb.co/WWSmKvXZ/Logo-Messange-1.jpg',
+            'alt':'logo Mésange Prévoyance'
         },
         {
-            "image": "https://i.ibb.co/Kz5BW3zv/Logo-Doc-Nac.png",
-            "alt": "logo DocNac"
+            'image':'https://i.ibb.co/BKQL2JSn/Logo-Henner.jpg',
+            'alt':'logo groupe Henner'
         },
         {
-            "image": "https://i.ibb.co/wr67xqYs/Logo-Sevetys.png",
-            "alt": "logo Sevetys Vétérinaires partenaires"
+            'image':'https://i.ibb.co/67qk3wMt/Logo-Allianz.jpg',
+            'alt':'logo Allianz assurance'
+        },
+        {
+            'image':'https://i.ibb.co/S4G3mtg9/Logo-Credit-Agricole.jpg',
+            'alt':'logo Crédit Agricole'
         }
   ],
   "logosList3": [
-        { 
-            "image": "https://i.ibb.co/jrZ9y7j/logo-Supveto06.jpg",
-            "alt": "logo de la LPA"
+       {
+            'image':'https://i.ibb.co/wFkbN3qf/Logo-Swiss.jpg',
+            'alt':'logo couleur Swiss Life'
         },
         {
-            "image": "https://i.ibb.co/mFnZNt1/logo-Supveto07.jpg",
-            "alt": "logo clinique vétérinaire"
+            'image':'https://i.ibb.co/gbt1vJpF/Logo-Humanis-1.jpg',
+            'alt':'logo couleur Humanis Malakoff'
         },
         {
-            "image": "https://i.ibb.co/r6kmn81/logo-Supveto08.jpg",
-            "alt": "logo de Biotopia"
+            'image':'https://i.ibb.co/BVR6w4C4/Logo-Sofinco-1.jpg',
+            'alt':'logo couleur Sofinco'
+        },
+        {
+            'image':'https://i.ibb.co/012S4CR/Logo-Deledalle.jpg',
+            'alt':'logo couleur Deledalle courtier d\'assurances'
         }
   ],
   "logosList4": [      
-        {
-            "image": "https://i.ibb.co/s2pZHFf/logo-Supveto09.jpg",
-            "alt": "logo AniCura"
+       {
+            'image':'https://i.ibb.co/LDmH5byb/Logo2-M-1.jpg',
+            'alt':'logo 2M votre courtier assurancess'
         },
         {
-            "image": "https://i.ibb.co/B5FKKSzP/LogoVet.png",
-            "alt": "logo de la clinique vétérinaire Vet+"
+            'image':'https://i.ibb.co/WNv8BHGg/logoMMA.jpg',
+            'alt':'logo MMA assurance'
         },
         {
-            "image": "https://i.ibb.co/yBfDsZbJ/Logo-IVC-Evidensia.png",
-                "alt": "logo IVC Evidensia"
+            'image':'https://i.ibb.co/F4rDBWgZ/Logo-Diot-1.jpg',
+            'alt':'logo Diot groupe Diot Siaci'
+        },
+        {
+            'image':'https://i.ibb.co/F4PPfbMS/Logo-Caisse-Epargne-1.png',
+            'alt':'logo Caisse d\'Épargne'
         }
     ]
 }
