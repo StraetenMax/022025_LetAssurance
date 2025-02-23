@@ -1,0 +1,78 @@
+mjml
+    mj-head
+        mj-title Lettre Ecosup Assurance - Entreprise Janvier 2025
+        mj-raw.
+            <meta name="color-scheme" content="light"/>
+            <meta name="supported-color-schemes" content="light"/>
+            <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="date=no"/>
+            <meta name="format-detection" content="address=no"/>
+            <meta name="format-detection" content="email=no"/>
+        mj-attributes
+            mj-all(font-family='Arial, Helvetica, sans-serif')/
+            //-font
+            mj-class(name="T+2" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="900" line-height="18px")
+            mj-class(name="T+1" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-weight="700" line-height="24px")
+            mj-class(name="T+0" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="20px")
+            //-color
+            mj-class(name="cA+2" color="#944694")
+            mj-class(name="cA+1" color="#684092")
+            mj-class(name="cT-0" color="#45546e")
+            mj-class(name="bgcG" background-color="#eff1f5")
+        mj-breakpoint(width='480px')/
+        mj-style. 
+            @media only screen and (max-width:480px) { 
+                .mobile-hide { 
+                    display: none !important; 
+                }
+                .mobile-show { 
+                    display: block !important;
+                    width: 100% !important;
+                    height: auto !important;
+                    visibility: visible !important;
+                }
+            }
+            .mobile-show {
+                display: none;
+            }
+            
+    //-mj-body(background-color='#fcfcfc')
+    mj-body(background-color='#E7ECf2')
+        //- block content
+        block content
+        //- block sponsors
+        block sponsors
+            include ../includes/_sponsors
+        //- block hero
+        block hero
+            include ../includes/_hero
+        //- block Edito
+        block edito
+            include ../includes/entreprise/_edito
+        //-block Lancement Mastère    
+        block mastere
+            include ../includes/entreprise/_mastere
+        //-block Etude
+            block etude Igensia
+            include ../includes/entreprise/_etudeIgensia
+        //-block job dating alternance
+        block job Dating
+            include ../includes/entreprise/_jobDating
+        //- block Trading Game
+        block tradingGame
+            include ../includes/entreprise/_tradingGame
+        //- block cvbook
+        block cvbook
+            include ../includes/entreprise/_cvbook
+        //- block salon de l'Etudiant
+        block salon Etudiant
+            include ../includes/entreprise/_salonEtudiant
+        //- block agenda
+        block agenda 
+            include ../includes/entreprise/_agenda
+        //-block partenaires
+        block partenaires
+            include ../includes/_partenaires
+        //- block footer
+        block footer
+            include ../includes/_footer
