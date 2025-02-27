@@ -122,13 +122,10 @@
       </mj-column>
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
-        <mj-text padding="0px" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Objectif Bac+5</mj-text>
-        <mj-text padding="0px" align="left" mj-class="T+1 cA+1">Lancement du Mastère Expert(e) en Ingénierie Patrimoniale&nbsp;!</mj-text>
-        <mj-text padding="5px 0" mj-class="T+0 cT-0"><span style="font-weight:700;color:#2D3748;">Ecosup Assurance</span> franchit une nouvelle étape en lançant son <span style="font-weight:700;color:#2D3748;">Mastère Expert en Ingénierie Patrimoniale</span> (bac+5). Ce diplôme, <span style="font-weight:700;color:#2D3748;">développé en partenariat</span> avec l'École Supérieure d'Assurance de Paris, répond aux enjeux actuels du marché de la gestion de patrimoine.</mj-text>
-        <mj-text padding="5px 0" mj-class="T+0 cT-0">En choisissant notre mastère, les étudiants intégreront un <span style="font-weight:700;color:#2D3748;">cursus d'excellence</span> et bénéficieront d'un accompagnement personnalisé tout au long de leur formation.</mj-text>
-        <mj-text padding="5px 0" mj-class="T+0 cT-0"><span style="font-weight:700;color:#2D3748">L'avenir s'écrit à Ecosup Assurance&nbsp;!</span></mj-text>
-        <mj-spacer height="10px"></mj-spacer>
-        <mj-text padding="5px 25px" align="right" color="#BA4995" font-size="16px" font-weight="700" line-height="20px"><a href="https://ecosup-assurance.fr/mastere-expert-en-ingenierie-patrimoniale/" style="color:#BA4995;font-size:16px;line-weight:20px;font-weight:700" target="_blank">En savoir plus sur le Mastère...</a></mj-text>
+        <mj-text padding="0px" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Alternance</mj-text>
+        <mj-text padding="0px" align="left" mj-class="T+1 cA+1">Un partenariat d'exception avec SwissLife&nbsp;!</mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0">C'est un véritable honneur pour notre école d'être partenaire d'un groupe prestigieux tel que SwissLife. Le <span style="font-weight:700;color:#2D3748;">20&nbsp;février&nbsp;2025</span>, nos futurs élèves ont eu la chance de profiter pleinement de ce partenariat en étant invités à une soirée exclusive au siège régional de Lille.</mj-text>
+        <mj-text padding="5px 0" mj-class="T+0 cT-0">Cette rencontre, riche et captivante, a permis à nos talents de rencontrer les managers des services en recherche de nouveaux collaborateurs. <span style="font-weight:700;color:#2D3748;">Plus de 20 postes disponibles&nbsp;!</span> Un bel avenir s'annonce pour nos élèves grâce à cette formidable opportunité.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="20px 17px">
