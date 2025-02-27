@@ -13,7 +13,8 @@ mjml
             //-font
             mj-class(name="T+2" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="900" line-height="18px")
             mj-class(name="T+1" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-weight="700" line-height="24px")
-            mj-class(name="T+0" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="20px")
+            mj-class(name="T400" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="20px")
+            mj-class(name="T700" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-weight="700" line-height="20px")
             //-color
             mj-class(name="cA+2" color="#944694")
             mj-class(name="cA+1" color="#684092")
@@ -52,8 +53,11 @@ mjml
         //-block job dating alternance
         block job Dating
             include ../includes/_jobDating
-        //-block Lancement Mastère    
-        block mastere
+        //-block Evenement OPCO Atlas    
+        block OPCO Atlas
+            include ../includes/_opcoAtlas
+        //-block Evenement SwissLife   
+        block swisslife
             include ../includes/_swisslife
         //- block Trading Game
         block tradingGame
