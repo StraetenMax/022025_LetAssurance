@@ -87,7 +87,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="0px">
       <mj-column width="100%">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" src="./images/newsBandeau022025.jpg" alt="Christian Annaloro, responsable pédagogique d'Ecosup Assurance, la remise des diplômes dans la salle des cérémonies de la ville de Tourcoing"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" src="./images/newsBandeau022025.jpg" alt="Christian Annaloro, responsable pédagogique d'Ecosup Assurance, jeunes filles et garçons futurs étudiants d'Ecosup Assurance"/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="10px" padding-bottom="40px">
