@@ -102,7 +102,7 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="20px 17px">
       <mj-column width="40%" padding="8px">
-        <mj-image padding="0" border="none" css-class="mobile-hide" src="https://i.ibb.co/fGMWPxzg/affiche-Jpo2025.jpg" alt="Affiche du Job Dating Assurance et Banque qui aura lieu le 17 avril 2025" width="480px"/>
+        <mj-image padding="0" border="none" css-class="mobile-hide" src="./images/afJobDating032025.png" alt="Affiche du Job Dating Assurance et Banque qui aura lieu le 17 avril 2025" width="480px"/>
         <mj-image padding="0" border="none" css-class="mobile-show" src="https://i.ibb.co/gCMvQ1J/01job-Dating.jpg" alt="Logo du Job Dating Assurance et Banque qui aura lieu le 17 avril 2025" width="480px"/>
       </mj-column>
       <mj-column width="60%" padding="8px">
@@ -117,7 +117,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 17px">
       <mj-column width="40%" padding="8px">
-        <mj-image padding="0px" border="none" css-class="mobile-hide" src="./images/atlas022025.jpg" alt="Version desktop, logo de l'ESA(École Supérieure d'Assurance) avec un groupe d'étudiants et leur enseignant" width="480px"/>
+        <mj-image padding="0px" border="none" css-class="mobile-hide" src="./images/afAtlas032025.png" alt="Rencontre - l'alternance : un passeport pour une formation dans le supérieur le 6 mars de 9h à 12h30 " width="480px"/>
         <mj-image padding="0px" border="none" css-class="mobile-show" src="https://i.ibb.co/3mbWWJ4n/EsaIogo.jpg" alt="Version mobile, logo de l'ESA(École Supérieure d'Assurance) avec un groupe d'étudiants" width="480px"/>
       </mj-column>
       <mj-column width="60%" padding="8px">
@@ -133,7 +133,7 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="20px 17px">
       <mj-column width="40%" padding="8px">
-        <mj-image padding="0px" border="none" css-class="mobile-hide" src="./images/swisslife022025.jpg" alt="Afterwork swisslife propose 20 postes en apprentissage" width="210px"/>
+        <mj-image padding="0px" border="none" css-class="mobile-hide" src="./images/afSwisslife.png" alt="Afterwork swisslife propose 20 postes en apprentissage" width="210px"/>
         <mj-image padding="0px" border="none" css-class="mobile-show" src="https://i.ibb.co/3mbWWJ4n/EsaIogo.jpg" alt="Version mobile, logo de l'ESA(École Supérieure d'Assurance) avec un groupe d'étudiants" width="480px"/>
       </mj-column>
       <mj-column width="60%" padding="8px">
@@ -146,7 +146,7 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="20px 17px">
       <mj-column width="40%" padding="8px">
-        <mj-image padding="0px" border="none" css-class="mobile-hide" src="./images/tradingame022025.jpg" alt="logo du Trading Game d'Ecosup Campus" width="480px"/>
+        <mj-image padding="0px" border="none" css-class="mobile-hide" src="./images/tradingGaming.png" alt="logo du Trading Game d'Ecosup Campus" width="480px"/>
         <mj-image padding="0px" border="none" css-class="mobile-show" src="https://i.ibb.co/sJ5vYgVt/img-Trading-Game012025-1.jpg" alt="logo du Trading Game d'Ecosup Campus" width="480px"/>
       </mj-column>
       <mj-column width="60%" padding="8px">
