@@ -14,11 +14,14 @@
       <mj-all font-family="Arial, Helvetica, sans-serif"/>
       <mj-class name="T+2" font-family="Arial, Helvetica, sans-serif" font-size="14px" font-weight="900" line-height="18px"/>
       <mj-class name="T+1" font-family="Arial, Helvetica, sans-serif" font-size="20px" font-weight="700" line-height="24px"/>
-      <mj-class name="T400" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="20px"/>
       <mj-class name="T700" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-weight="700" line-height="20px"/>
+      <mj-class name="T400" font-family="Arial, Helvetica, sans-serif" font-size="16px" font-weight="400" line-height="20px"/>
+      <mj-class name="T-1-700" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="700" line-height="16px"/>
+      <mj-class name="T-1-400" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" line-height="16px"/>
       <mj-class name="cA+2" color="#944694"/>
       <mj-class name="cA+1" color="#684092"/>
       <mj-class name="cT-0" color="#45546e"/>
+      <mj-class name="cT-1" color="#fcfcfc"/>
       <mj-class name="bgcG" background-color="#eff1f5"/>
     </mj-attributes>
     <mj-breakpoint width="480px"/>
@@ -164,8 +167,8 @@
       </mj-column>
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
-        <mj-text padding="0px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase" letter-spacing="1px">Apprentissage</mj-text>
-        <mj-text padding="0px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Votre entreprise recherche un collaborateur ! </mj-text>
+        <mj-text padding="0px" align="left" mj-class="T+2 cA+2" text-transform="uppercase">Apprentissage</mj-text>
+        <mj-text padding="0px" align="left" mj-class="T+1 cA+1">Votre entreprise recherche un collaborateur ! </mj-text>
         <mj-text padding="5px 0px" align="left" mj-class="T400 cT-0">Demandez votre accès privilégié à l'espace entreprise pour découvrir <span style="color:#2D3748;font-weight:700;">notre CV Book</span>, reprenant tous les <span style="color:#2D3748;font-weight:700;">futurs talents</span> d'Ecosup Assurance Banque en <span style="color:#2D3748;font-weight:700;">recherche d'un contrat d'alternance</span>. </mj-text>
         <mj-text padding="5px 0px" align="left" mj-class="T400 cT-0">Nous pouvons également vous l'adresser au format PDF sur simple demande.</mj-text>
         <mj-spacer height="10px"></mj-spacer>
@@ -174,8 +177,8 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="20px" padding-bottom="10px">
       <mj-column>
-        <mj-text padding="0 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase" letter-spacing="1px">À vos Agendas</mj-text>
-        <mj-text padding="0 25px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Salon, Job Dating et Journées Portes Ouvertes</mj-text>
+        <mj-text padding="0 25px" align="left" mj-class="T+2 cA+2" text-transform="uppercase">À vos Agendas</mj-text>
+        <mj-text padding="0 25px" align="left" mj-class="T+1 cA+1">Salon, Job Dating et Journées Portes Ouvertes</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="0" padding-left="23px" padding-right="23px">
@@ -198,7 +201,7 @@
     </mj-section>
     <mj-section background-color="#586c8d" padding-left="23px" padding-right="23px" padding-bottom="10px">
       <mj-column width="100%">
-        <mj-text padding="0px 2px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#EDF2F7">Entreprises accueillant nos étudiants en apprentissage</mj-text>
+        <mj-text padding="0px 2px" align="left" mj-class="T+1" color="#EDF2F7">Entreprises accueillant nos étudiants en apprentissage</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#586c8d" padding="0px 23px">
@@ -268,12 +271,13 @@
     </mj-section>
     <mj-section background-color="#586c8d" padding="20px 32px">
       <mj-column width="320px">
-        <mj-image width="140px" padding="0" border="none" align="center" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" alt="Logo Ecosup Campus"/>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="https://www.google.com/maps/@50.72132372645463,3.1568485683426477?ll=50.72132372645463,3.1568485683426477&amp;z=12&amp;q=Ecosup+Campus">17 Place Charles et Albert Roussel</a></mj-text>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc" text-transform="uppercase">59200 Tourcoing</mj-text>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="700" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="tel:0320700606">Tél 03.20.70.06.06</a>               </mj-text>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
-        <mj-text padding="0 0 25px 0" align="center" font-size="12px" font-weight="700" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="https://ecosup-campus.com">www.ecosup-campus.fr</a></mj-text>
+        <mj-image width="140px" padding="0" align="center" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" alt="Logo Ecosup Campus"/>
+        <mj-text padding="0" align="center" mj-class="T-1-400 cT-1"><a style="text-decoration:none;color:#fcfcfc;" href="https://www.google.com/maps/@50.72132372645463,3.1568485683426477?ll=50.72132372645463,3.1568485683426477&amp;z=12&amp;q=Ecosup+Campus">17 Place Charles et Albert Roussel</a></mj-text>
+        <mj-text padding="0" align="center" mj-class="T-1-400 cT-1" text-transform="uppercase">59200 Tourcoing</mj-text>
+        <mj-text padding="0" align="center" mj-class="T-1-700 cT-1"><a style="text-decoration:none;color:#fcfcfc;" href="tel:0320700606">Tél 03.20.70.06.06</a>               </mj-text>
+        <mj-text padding="0" align="center" mj-class="T-1-400 cT-1"><a style="text-decoration:none;color:#fcfcfc;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+        <mj-text padding="0" align="center" mj-class="T-1-700 cT-1"><a style="text-decoration:none;color:#fcfcfc;" href="https://ecosup-campus.com">www.ecosup-campus.fr</a></mj-text>
+        <mj-spacer height="25px"></mj-spacer>
       </mj-column>
     </mj-section>
     <mj-section>
