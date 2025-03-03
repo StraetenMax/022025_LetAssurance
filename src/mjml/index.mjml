@@ -91,7 +91,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="0px">
       <mj-column width="100%">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" src="./images/newsBandeau022025.jpg" alt="Christian Annaloro, responsable pédagogique d'Ecosup Assurance, jeunes filles et garçons futurs étudiants d'Ecosup Assurance"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" src="https://i.ibb.co/cc1V93PM/news-Bandeau022025.jpg" alt="Christian Annaloro, responsable pédagogique d'Ecosup Assurance, jeunes filles et garçons futurs étudiants d'Ecosup Assurance"/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="10px" padding-bottom="40px">
@@ -106,8 +106,8 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="20px 17px">
       <mj-column width="40%" padding="8px">
-        <mj-image padding="0" border="none" css-class="mobile-hide" src="./images/afJobDating032025.png" alt="Affiche du Job Dating Assurance et Banque qui aura lieu le 17 avril 2025" width="210px"/>
-        <mj-image padding="0" border="none" css-class="mobile-show" fluid-on-mobile="true" src="./images/jobDating022025.png" alt="Logo du Job Dating Assurance et Banque qui aura lieu le 17 avril 2025" width="480px"/>
+        <mj-image padding="0" border="none" css-class="mobile-hide" src="https://i.ibb.co/dJx4cRPn/af-Job-Dating032025.png" alt="Affiche du Job Dating Assurance et Banque qui aura lieu le 17 avril 2025" width="210px"/>
+        <mj-image padding="0" border="none" css-class="mobile-show" fluid-on-mobile="true" src="https://i.ibb.co/bj6JCmFr/job-Dating022025.png" alt="Logo du Job Dating Assurance et Banque qui aura lieu le 17 avril 2025" width="480px"/>
       </mj-column>
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
@@ -122,7 +122,7 @@
     <mj-section background-color="#ffffff" padding="20px 17px">
       <mj-column width="40%" padding="8px">
         <mj-image padding="0px" border="none" css-class="mobile-hide" src="https://i.ibb.co/nssfmL4W/af-Atlas032025.png" alt="Rencontre - l'alternance : un passeport pour une formation dans le supérieur le 6 mars de 9h à 12h30 " width="210px"/>
-        <mj-image padding="0px" border="none" fluid-on-mobile="true" css-class="mobile-show" src="./images/atlasOPCO022025.png" alt="Rencontre - l'alternance : un passeport pour une formation dans le supérieur le 6 mars de 9h à 12h" width="430px"/>
+        <mj-image padding="0px" border="none" fluid-on-mobile="true" css-class="mobile-show" src="https://i.ibb.co/Xfdnp3xt/atlas-OPCO022025.png" alt="Rencontre - l'alternance : un passeport pour une formation dans le supérieur le 6 mars de 9h à 12h" width="430px"/>
       </mj-column>
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
@@ -137,8 +137,8 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="20px 17px">
       <mj-column width="40%" padding="8px">
-        <mj-image padding="0px" border="none" css-class="mobile-hide" src="./images/afSwisslife.png" alt="Afterwork swisslife propose 20 postes en apprentissage" width="210px"/>
-        <mj-image padding="0px" border="none" css-class="mobile-show" src="./images/swisslife022025.png" alt="Afterwork swissLife,l'évènement propose 20 postes en apprentissage" width="210px"/>
+        <mj-image padding="0px" border="none" css-class="mobile-hide" src="https://i.ibb.co/4g3fJ0yJ/af-Swisslife.png" alt="Afterwork swisslife propose 20 postes en apprentissage" width="210px"/>
+        <mj-image padding="0px" border="none" css-class="mobile-show" src="https://i.ibb.co/FLskXN3z/swisslife022025.png" alt="Afterwork swissLife,l'évènement propose 20 postes en apprentissage" width="210px"/>
       </mj-column>
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
@@ -150,8 +150,8 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px 17px">
       <mj-column width="40%" padding="8px">
-        <mj-image padding="0px" border="none" css-class="mobile-hide" src="./images/tradingGaming.png" alt="logo du Trading Game d'Ecosup Campus" width="210px"/>
-        <mj-image padding="0px" border="none" css-class="mobile-show" src="./images/trading022025.png" alt="logo du Trading Game d'Ecosup Campus" width="210px"/>
+        <mj-image padding="0px" border="none" css-class="mobile-hide" src="https://i.ibb.co/Rkby72V7/trading-Gaming.png" alt="logo du Trading Game d'Ecosup Campus" width="210px"/>
+        <mj-image padding="0px" border="none" css-class="mobile-show" src="https://i.ibb.co/MkDqq9W7/trading022025.png" alt="logo du Trading Game d'Ecosup Campus" width="210px"/>
       </mj-column>
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
@@ -164,7 +164,7 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="20px 17px">
       <mj-column width="40%" padding="8px">
-        <mj-image padding="0" border="none" width="210px" src="./images/cvbook022025.png" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
+        <mj-image padding="0" border="none" width="210px" src="https://i.ibb.co/83zvPkG/cvbook022025.png" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
       </mj-column>
       <mj-column width="60%" padding="8px">
         <mj-spacer height="12px"></mj-spacer>
@@ -185,18 +185,18 @@
     <mj-section background-color="#ffffff" padding-top="0" padding-left="23px" padding-right="23px">
       <mj-group width="50%">
         <mj-column width="50%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="215px" src="./images/afAtlas032025.png" alt="Rencontre - l'alternance : un passeport pour une formation dans le supérieur 6 mars"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="215px" src="https://i.ibb.co/nssfmL4W/af-Atlas032025.png" alt="Rencontre - l'alternance : un passeport pour une formation dans le supérieur 6 mars"/>
         </mj-column>
         <mj-column width="50%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="215px" src="./images/afEtudiant032025.png" alt="Salon de l'Étudiant : Formations et recrutement en alternance 21 et 22 mars"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="215px" src="https://i.ibb.co/2006Grjd/af-Etudiant032025.png" alt="Salon de l'Étudiant : Formations et recrutement en alternance 21 et 22 mars"/>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
         <mj-column width="50%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="215px" src="./images/afJpo032025.png" alt="Affiche de la journée portes ouvertes du samedi 29 mars 2025 de 9h30 à 13h"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="215px" src="https://i.ibb.co/jPJJMkf1/af-Jpo032025.png" alt="Affiche de la journée portes ouvertes du samedi 29 mars 2025 de 9h30 à 13h"/>
         </mj-column>
         <mj-column width="50%" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="215px" src="./images/afJobDating032025.png" alt="Affiche du job dating du jeudi 17 avril"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="215px" src="https://i.ibb.co/dJx4cRPn/af-Job-Dating032025.png" alt="Affiche du job dating du jeudi 17 avril"/>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -208,44 +208,44 @@
     <mj-section background-color="#586c8d" padding="0px 23px">
       <mj-group width="50%">
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="./images/axa.png" alt="logo AXA assurance"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="https://i.ibb.co/s9bNW5TV/axa.png" alt="logo AXA assurance"/>
         </mj-column>
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="./images/sma.png" alt="logo SMA btp"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="https://i.ibb.co/Ndtpn0MF/sma.png" alt="logo SMA btp"/>
         </mj-column>
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="./images/dlm.png" alt="logo DLM location"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="https://i.ibb.co/b5SxQdLj/dlm.png" alt="logo DLM location"/>
         </mj-column>
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="./images/concilian.png" alt="logo Concilian"/>
-        </mj-column>
-      </mj-group>
-      <mj-group width="50%">
-        <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="./images/mesange.png" alt="logo Mésange Prévoyance"/>
-        </mj-column>
-        <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="./images/ghenner.png" alt="logo groupe Henner"/>
-        </mj-column>
-        <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="./images/allianz.png" alt="logo Allianz assurance"/>
-        </mj-column>
-        <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="./images/cagricole.png" alt="logo Crédit Agricole"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="https://i.ibb.co/tPHbkbGP/concilian.png" alt="logo Concilian"/>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="./images/swisslife.png" alt="logo couleur Swiss Life"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="https://i.ibb.co/N2D7V4M9/mesange.png" alt="logo Mésange Prévoyance"/>
         </mj-column>
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="./images/malakoff.png" alt="logo couleur Humanis Malakoff"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="https://i.ibb.co/BKrjVTWW/ghenner.png" alt="logo groupe Henner"/>
         </mj-column>
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="./images/sofinco.png" alt="logo couleur Sofinco"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="https://i.ibb.co/Jgb3gS7/allianz.png" alt="logo Allianz assurance"/>
         </mj-column>
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="./images/deledalle.png" alt="logo couleur Deledalle courtier d'assurances"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="https://i.ibb.co/nq7Zh1b0/cagricole.png" alt="logo Crédit Agricole"/>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="https://i.ibb.co/svCSkW0J/swisslife.png" alt="logo couleur Swiss Life"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="https://i.ibb.co/BK5G6NKX/malakoff.png" alt="logo couleur Humanis Malakoff"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="https://i.ibb.co/zhzhc7ZZ/sofinco.png" alt="logo couleur Sofinco"/>
+        </mj-column>
+        <mj-column width="25%" background-color="#586c8d" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="https://i.ibb.co/1tpfhHps/deledalle.png" alt="logo couleur Deledalle courtier d'assurances"/>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
@@ -253,18 +253,18 @@
           <mj-image padding="0" fluid-on-mobile="true" width="105px" src="https://i.ibb.co/C4Rm3Wp/2m.png" alt="logo 2M votre courtier assurancess"/>
         </mj-column>
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="./images/mma.png" alt="logo MMA assurance"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="https://i.ibb.co/6h28XDy/mma.png" alt="logo MMA assurance"/>
         </mj-column>
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="./images/diot.png" alt="logo Diot groupe Diot Siaci"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="https://i.ibb.co/1tpfhHps/deledalle.png" alt="logo Diot groupe Diot Siaci"/>
         </mj-column>
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="./images/cepargne.png" alt="logo Caisse d'Épargne"/>
+          <mj-image padding="0" fluid-on-mobile="true" width="105px" src="https://i.ibb.co/Zb0ZFDy/cepargne.png" alt="logo Caisse d'Épargne"/>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
         <mj-column width="25%" background-color="#586c8d" padding="2px">
-          <mj-image align="left" padding="0" fluid-on-mobile="true" width="105px" src="./images/vespieren.png" alt="logo des Assurances Vespieren"/>
+          <mj-image align="left" padding="0" fluid-on-mobile="true" width="105px" src="https://i.ibb.co/SD9PWN32/vespieren.png" alt="logo des Assurances Vespieren"/>
         </mj-column>
         <mj-column width="25%" background-color="#586c8d" padding="2px"></mj-column>
       </mj-group>

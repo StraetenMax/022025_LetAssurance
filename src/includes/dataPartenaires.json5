@@ -1,55 +1,55 @@
 {
   "logosList1": [
         {
-            'image': './images/axa.png',
+            'image': 'https://i.ibb.co/s9bNW5TV/axa.png',
             'alt' : 'logo AXA assurance' 
         },
         {
-            'image':'./images/sma.png',
+            'image':'https://i.ibb.co/Ndtpn0MF/sma.png',
             'alt':'logo SMA btp'
         },
         {
-            'image':'./images/dlm.png',
+            'image':'https://i.ibb.co/b5SxQdLj/dlm.png',
             'alt':'logo DLM location'
         },
         {
-            'image':'./images/concilian.png',
+            'image':'https://i.ibb.co/tPHbkbGP/concilian.png',
             'alt':'logo Concilian'
         }
     ],
     "logosList2": [        
          { 
-            'image':'./images/mesange.png',
+            'image':'https://i.ibb.co/N2D7V4M9/mesange.png',
             'alt':'logo Mésange Prévoyance'
         },
         {
-            'image':'./images/ghenner.png',
+            'image':'https://i.ibb.co/BKrjVTWW/ghenner.png',
             'alt':'logo groupe Henner'
         },
         {
-            'image':'./images/allianz.png',
+            'image':'https://i.ibb.co/Jgb3gS7/allianz.png',
             'alt':'logo Allianz assurance'
         },
         {
-            'image':'./images/cagricole.png',
+            'image':'https://i.ibb.co/nq7Zh1b0/cagricole.png',
             'alt':'logo Crédit Agricole'
         }
   ],
   "logosList3": [
        {
-            'image':'./images/swisslife.png',
+            'image':'https://i.ibb.co/svCSkW0J/swisslife.png',
             'alt':'logo couleur Swiss Life'
         },
         {
-            'image':'./images/malakoff.png',
+            'image':'https://i.ibb.co/BK5G6NKX/malakoff.png',
             'alt':'logo couleur Humanis Malakoff'
         },
         {
-            'image':'./images/sofinco.png',
+            'image':'https://i.ibb.co/zhzhc7ZZ/sofinco.png',
             'alt':'logo couleur Sofinco'
         },
         {
-            'image':'./images/deledalle.png',
+            'image':'https://i.ibb.co/1tpfhHps/deledalle.png',
             'alt':'logo couleur Deledalle courtier d\'assurances'
         }
   ],
@@ -59,15 +59,15 @@
             'alt':'logo 2M votre courtier assurancess'
         },
         {
-            'image':'./images/mma.png',
+            'image':'https://i.ibb.co/6h28XDy/mma.png',
             'alt':'logo MMA assurance'
         },
         {
-            'image':'./images/diot.png',
+            'image':'https://i.ibb.co/1tpfhHps/deledalle.png',
             'alt':'logo Diot groupe Diot Siaci'
         },
         {
-            'image':'./images/cepargne.png',
+            'image':'https://i.ibb.co/Zb0ZFDy/cepargne.png',
             'alt':'logo Caisse d\'Épargne'
         }
     ]
