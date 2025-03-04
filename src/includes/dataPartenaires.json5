@@ -15,10 +15,8 @@
         {
             'image':'https://i.ibb.co/tPHbkbGP/concilian.png',
             'alt':'logo Concilian'
-        }
-    ],
-    "logosList2": [        
-         { 
+        },      
+        { 
             'image':'https://i.ibb.co/N2D7V4M9/mesange.png',
             'alt':'logo Mésange Prévoyance'
         },
@@ -35,7 +33,7 @@
             'alt':'logo Crédit Agricole'
         }
   ],
-  "logosList3": [
+  "logosList2": [
        {
             'image':'https://i.ibb.co/svCSkW0J/swisslife.png',
             'alt':'logo couleur Swiss Life'
@@ -51,9 +49,7 @@
         {
             'image':'https://i.ibb.co/1tpfhHps/deledalle.png',
             'alt':'logo couleur Deledalle courtier d\'assurances'
-        }
-  ],
-  "logosList4": [      
+        },     
        {
             'image':'https://i.ibb.co/C4Rm3Wp/2m.png',
             'alt':'logo 2M votre courtier assurancess'
@@ -69,6 +65,10 @@
         {
             'image':'https://i.ibb.co/Zb0ZFDy/cepargne.png',
             'alt':'logo Caisse d\'Épargne'
+        },
+        {
+            'image':'https://i.ibb.co/SD9PWN32/vespieren.png',
+            'alt':'logo Vespieren'
         }
     ]
 }
