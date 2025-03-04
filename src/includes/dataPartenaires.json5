@@ -29,8 +29,8 @@
             'alt':'logo Allianz assurance'
         },
         {
-            'image':'https://i.ibb.co/nq7Zh1b0/cagricole.png',
-            'alt':'logo Crédit Agricole'
+            'image':'https://i.ibb.co/SD9PWN32/vespieren.png',
+            'alt':'logo Vespieren'
         }
   ],
   "logosList2": [
@@ -65,10 +65,6 @@
         {
             'image':'https://i.ibb.co/Zb0ZFDy/cepargne.png',
             'alt':'logo Caisse d\'Épargne'
-        },
-        {
-            'image':'https://i.ibb.co/SD9PWN32/vespieren.png',
-            'alt':'logo Vespieren'
-        }
+        }    
     ]
 }
